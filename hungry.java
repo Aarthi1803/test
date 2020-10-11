@@ -10,6 +10,7 @@ Scanner scan=new Scanner(System.in);
 		System.out.println("eat samosa");
                 System.out.println("eat pizza");
                 System.out.println("eat burger");
+                System.out.println("eat fries");
 		else
 		System.out.println("do your homework");
 
