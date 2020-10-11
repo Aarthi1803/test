@@ -12,7 +12,12 @@ Scanner scan=new Scanner(System.in);
                 System.out.println("eat burger");
                 System.out.println("eat fries");
 		else
-		System.out.println("do your homework");
+		
+		System.out.println("are you thirsty?");
+		 thirsty=scan.nextLine();
+		if(thirsty.equalsIgnoreCase("yes"))
+		System.out.println("drink water");
+                System.out.println("drink soda");
 
 }
 }
