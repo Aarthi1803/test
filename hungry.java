@@ -16,6 +16,7 @@ Scanner scan=new Scanner(System.in);
 		 thirsty=scan.nextLine();
 		if(thirsty.equalsIgnoreCase("yes"))
 		System.out.println("drink water");
+                System.out.println("drink soda");
 
 }
 }
