@@ -9,6 +9,7 @@ Scanner scan=new Scanner(System.in);
 		if(message.equalsIgnoreCase("yes"))
 		System.out.println("eat samosa");
                 System.out.println("eat pizza");
+                System.out.println("eat burger");
 		else
 		System.out.println("do your homework");
 
